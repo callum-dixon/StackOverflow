@@ -31,7 +31,7 @@ From the top of my head:
 
 ## Prerequisites
 
-- Android Studio 4.0 or later.
+- Android Studio >= 2015.1.3. Upgrade Android Studio if AGP shows as unsupported.
 - Supports API >= 26 minimum.
 
 ## Testing
